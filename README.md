@@ -10,4 +10,19 @@ We take a look at the following statistics:
 - Performance by Handedness
 - Player Analysis
 
+Preview of Statistics:
+
+- Age of Top-Ranked Players Over Time
+
+<img src="https://github.com/KiwiThePoodle/Exploratory-Analysis-Using-ATP-Dataset/blob/main/Age%20of%20Top-Ranked%20Players%20Over%20Time.png">
+
+- Country of Top-Ranked Players Over Time
+
+<img src="https://github.com/KiwiThePoodle/Exploratory-Analysis-Using-ATP-Dataset/blob/main/Country%20of%20Top-Ranked%20Players%20Over%20Time.png">
+
+- Player (Andy Murray) Results Against Rank of Opponents
+
+<img src="https://github.com/KiwiThePoodle/Exploratory-Analysis-Using-ATP-Dataset/blob/main/Player%20Results%20Against%20Opponents.png" width=25% height=25%>
+
+
 [README](README.pdf)
