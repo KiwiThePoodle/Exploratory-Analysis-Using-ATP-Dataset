@@ -22,7 +22,7 @@ Preview of Statistics:
 
 - Player (Andy Murray) Results Against Rank of Opponents
 
-<img src="https://github.com/KiwiThePoodle/Exploratory-Analysis-Using-ATP-Dataset/blob/main/Player%20Results%20Against%20Opponents.png" width=25% height=25%>
+<img src="https://github.com/KiwiThePoodle/Exploratory-Analysis-Using-ATP-Dataset/blob/main/Player%20Results%20Against%20Opponents.png">
 
 
 [README](README.pdf)
