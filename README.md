@@ -26,3 +26,6 @@ Preview of Statistics:
 
 
 [README](README.pdf)
+
+
+Additionally, I have also worked on a project to find correlations between NBA player statistics.
